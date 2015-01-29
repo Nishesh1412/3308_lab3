@@ -5,8 +5,5 @@ Git Version Control - Nishesh Shukla
 
 This mgiht cause a merge conflict
 
-=======
-MARKDOWN HEADLINE
-=================
+Partner: Matt Geckle
 
-### OTHER MARKDOWN
